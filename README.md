@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 👨‍💻 All of my projects are available at [codewithwil.netlify.app](codewithwil.netlify.app)
+- 👨‍💻 All of my projects are available at [codewithwil.netlify.app](https://codewithwil.netlify.app)
 
 - 📝 I do write articles on [https://dev.to/wilcrat](https://dev.to/wilcrat)
 
