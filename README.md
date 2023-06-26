@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilcrat&label=Profile%20views&color=0e75b6&style=flat" alt="wilcrat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/wilcrat" target="blank"><img src="https://img.shields.io/twitter/follow/wilcrat?logo=twitter&style=for-the-badge" alt="wilcrat" /></a> </p>
-- Bae: Tech
+<b>Bae: Tech</b>
 
 - 🔭 I’m currently working on **HypTunes**
 
